@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">movieList</string>
+    <string name="add_movies">Add Movie</string>
+    <string name="movie_list_title">Tylers Movie List</string>
+</resources>
